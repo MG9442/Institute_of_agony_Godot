@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cnfrvcm26vmxh"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_right = 491.0
+offset_bottom = 248.0
+theme_override_font_sizes/font_size = 42
+text = "Institute of AGONY!"
